@@ -27,3 +27,6 @@ we train a soft-margin linear SVM classifier. We use [svmlight](http://svmlight.
 
 OpenCV
 
+## Sample Detections
+![](https://github.com/nrupatunga/nrupatunga.github.io/blob/master/project/hog/pedestriandetection.PNG)
+
