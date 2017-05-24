@@ -5,8 +5,9 @@ The idea behind HOG is that local object appearance and shape within an image ca
 the distribution of intensity gradients or edge directions.
 
 ## Dataset
+
 |   |Training Set   |Test Set   |Total |
-|---|---|---|---|---|
+|---|---|---|---|
 | Positive Samples  |3977   |442   |4419   |
 | Negative Samples  |4842   |538   |5380   |
 
@@ -19,7 +20,7 @@ we train a soft-margin linear SVM classifier. We use [svmlight](http://svmlight.
 ##Accuracy on train and test set
 
 |   |Accuracy (%)   |Precision/Recall (%) |
-|---|---|---|---|
+|---|---|---|
 | Training Set  |99.07   |99.67/98.27 |
 | Test Set  |99.18  |100/98.19|
 
