@@ -17,7 +17,7 @@ Each sample is of dimension 64x128
 
 we train a soft-margin linear SVM classifier. We use [svmlight](http://svmlight.joachims.org/) to train the SVM model. 
 
-##Accuracy on train and test set
+## Accuracy on train and test set
 
 |   |Accuracy (%)   |Precision/Recall (%) |
 |---|---|---|
